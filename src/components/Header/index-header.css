@@ -1,7 +1,5 @@
-.header-box{
-    background-image: url(../../assets/background-header.jpg);
-    background-repeat: no-repeat;
+.profile-picture{
+    background-image: url('../../assets/profilePic.jpg');
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
